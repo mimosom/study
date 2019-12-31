@@ -8,3 +8,8 @@ https://www.kaggle.com/c/titanic/data
 必要なファイルを以下からダウンロード
 
 https://github.com/ghmagazine/kagglebook/tree/master/input/sample-data
+
+## ch03
+必要なファイルを以下からダウンロード
+
+https://github.com/ghmagazine/kagglebook/tree/master/input/ch03
